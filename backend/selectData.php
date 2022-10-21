@@ -60,9 +60,9 @@
                                           <div class="invalid-feedback">โปรดกรอกข้อมูลในฟิลด์นี้</div>
                                     </div>
                               </div>
+                              <hr>
+                              <div class="d-grid gap-2 d-md-flex justify-content-md-end my-4 me-auto">
                                     
-                              <div class="col-md-12 col-sm-12 my-4 me-auto">
-                                    <hr>
                                     <button type="submit" name="update" class="btn btn-success">อัพเดต</button>
                                     <a href="index.php" class="btn btn-secondary">กลับ</a> 
                               </div>

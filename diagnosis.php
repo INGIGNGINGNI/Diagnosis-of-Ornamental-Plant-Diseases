@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>วินิจฉัยโรค - Plant Disease Diagnosis</title>
+    <title>วินิจฉัยโรค - Ornamental Plant Diseases</title>
 
     <!-- Favicons -->
     <link href="assets/img/favicon_1.png" rel="icon">
@@ -82,7 +82,7 @@
             <div class="container check select" data-aos="fade-up">
                 <div class="section-title">
                     <h2>ลักษณะอาการที่เกิด</h2>
-                    <h5>โปรดเลือกลักษณะอาการที่เกิดขึ้นกับไม้ประดับของคุณให้ครบถ้วนเพื่อทำการวินิจฉัยโรค</h5>
+                    <h5>คำแนะนำ : โปรดเลือกลักษณะอาการที่เกิดขึ้นกับไม้ประดับของคุณให้ครบถ้วนเพื่อทำการวินิจฉัยโรค หากไม่มีลักษณะอาการเหล่านี้ให้กดปุ่มลูกศรเพื่อไปยังข้อถัดไป</h5>
                 </div>
                 <hr>
                 <div class="row g-3">

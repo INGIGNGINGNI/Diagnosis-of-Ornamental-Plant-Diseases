@@ -542,10 +542,10 @@
 
                   <div class="card my-4">
                         <div class="row g-0">
-                              <div class="col-md-4">
-                                    <img src="uploads/<?= $data[0]['img'] ?>" class="img-fluid">
+                              <div class="col-sm-12 col-md-4 col-lg-4">
+                                    <img src="uploads/<?= $data[0]['img'] ?>" width="100%">
                               </div>
-                              <div class="col-md-8">
+                              <div class="col-sm-12 col-md-8 col-lg-8">
                                     <div class="card-body">
                                           <h5 class="card-title text-answer"><?= $data[0]['name']." (".$data[0]['enname'].") " ?></h5>
                                           <article><p class="card-text"><?= $data[0]['symptom'] ?></p></article>

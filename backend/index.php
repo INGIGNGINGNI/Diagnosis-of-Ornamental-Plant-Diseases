@@ -108,7 +108,7 @@
             </div>
         </div>
 
-        <?php include "../footer.php" ;?>
+        <?php include "footer.php" ;?>
 
         <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
         <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>

@@ -144,7 +144,7 @@
     </div>
 
     <div class="footers mt-5 pt-5">
-        <?php include "../footer.php";?>
+        <?php include "footer.php";?>
     </div>
 
     <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
